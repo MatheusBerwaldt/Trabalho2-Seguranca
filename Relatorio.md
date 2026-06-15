@@ -2,7 +2,7 @@
 
 **Disciplina:** Segurança de Sistemas / Segurança da Informação  
 **Formato:** Trabalho de Análise de Falhas Famosas de Segurança  
-**Grupo:** [Inserir Nomes dos Integrantes]
+**Grupo:** Matheus Berwaldt, João Coelho
 
 ---
 
